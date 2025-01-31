@@ -1,5 +1,5 @@
 ---
-title: My Resume
+title: Main
 ---
 
 # Welcome to My Site
