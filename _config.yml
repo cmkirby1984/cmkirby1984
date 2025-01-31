@@ -1,4 +1,4 @@
 title: My Jekyll Site
 description: A simple Jekyll site hosted on GitHub Pages.
-baseurl: ""
-url: "https://cmkirby1984.github.io/cmkirby1984/" # Replace <username> with your GitHub username
+baseurl: "cmkirby1984/"
+url: "https://cmkirby1984.github.io/" # Replace <username> with your GitHub username
