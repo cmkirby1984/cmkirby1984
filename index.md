@@ -1,7 +1,7 @@
 ---
-title: My Jekyll Site
+title: My Resume
 ---
 
 # Welcome to My Site
 
-This is a sample Jekyll site hosted on GitHub Pages.
+This is a sample resume on github.
