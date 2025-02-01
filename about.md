@@ -12,12 +12,14 @@ _Vernon, BC V1H 1P7_
 
 ---
 
-**Summary**  
+**Summary** 
+
 Experienced IT Specialist with expertise in Networking, System Administration, Help Desk Support, and Computer Repair. Proven track record in resolving complex technical challenges, delivering exceptional customer service, and ensuring system stability. Recognized for enhancing customer satisfaction and reducing costs through innovative problem-solving techniques. Skilled in adopting creative solutions to address customer concerns.
 
 ---  
 
 **Work History**  
+
 **System Administrator**  
 _DCT Chambers, Vernon, BC | August 2022 - Current_  
 - Provided technical support and troubleshooting for a wide range of hardware and software issues.  
